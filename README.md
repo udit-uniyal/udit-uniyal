@@ -11,9 +11,20 @@
 - <b>Web Scrapping using Python</b>
   - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
 
-<h2>Certifications</h2>
+<h2>📜 Certifications</h2>
 
-
+- <b>Network Security & Database Vulnerabilities</b>
+  - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/2PA25CETV6RK)
+- <b>Crash Course on Python</b>
+  - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/A2V5LVER6NHT)
+- <b>Introduction to Cybersecurity Tools & Cyber Attacks</b>
+  - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/GB4HWX4L83PW)
+- <b>Using Python to Interact with the Operating System</b>
+  - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/X6AGWDSR9BU6)
+- <b>Embedded System</b>
+  - [Click me to verify and see the certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=DB485027-D85E-0659-745F-7E9F3AFCC89E)
+- <b>Burp Suite: In Depth Survival Guide</b>
+  - [Click me to verify and see the certificate](https://www.udemy.com/certificate/UC-50327248-675d-432b-8c94-12ea256501bd/)
 
 <h2> 🤳 Connect with me:</h2>
 
