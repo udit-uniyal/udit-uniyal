@@ -1,6 +1,6 @@
 <h1>Hi, I'm Udit! <br/><a href="https://github.com/udit-uniyal">Programmer</a>, <a href="https://www.linkedin.com/in/udit-uniyal-6555051b4">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Work Experience:</h2>
+<h2>🧑🏻‍💻 Work Experience:</h2>
 
 - <b>Cyber Security Specialist (Intern)</b>
   - [Click me to see the internship certificate](https://drive.google.com/file/d/1o1mm4urgBCnzvOFCU_dE9Cd1xYcC7xsa/view?usp=share_link). 
@@ -9,7 +9,7 @@
 - <b>Institute Innovation Cell (IIC) (Intern)</b>
   - [Click me to see the internship certificate](https://drive.google.com/file/d/1Pcp-eOHTatJnGpiuZUy41_i0LGrCBLzd/view?usp=share_link)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>💻 Cybersecurity Projects:</h2>
 
 - <b>GUI Based File Integrity Monitoring System</b>
   - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
