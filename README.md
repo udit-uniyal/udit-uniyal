@@ -35,8 +35,14 @@
 - <b>Burp Suite: In Depth Survival Guide</b>
   - [Click me to verify and see the certificate](https://www.udemy.com/certificate/UC-50327248-675d-432b-8c94-12ea256501bd/)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>👨‍🎓 University Projects as ECE Student:</h2>
 
+- <b>Water Level Indicator using Wifi Technology</b>
+  - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
+- <b>High speed voice control car with obstacle avoidance feature</b>
+  - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
+
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="UditUniyal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
