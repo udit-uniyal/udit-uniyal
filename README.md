@@ -12,7 +12,7 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>GUI Based File Integrity Monitoring System</b>
-  - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
+  - [Click me to go to project code and details](https://github.com/udit-uniyal/File-Integrity-Monitoring-System.git)
 - <b>Vulnerability Management Tool</b>
   - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
 - <b>KeyLogger using Python</b>
