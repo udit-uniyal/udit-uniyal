@@ -1,7 +1,8 @@
 <h1>Hi, I'm Udit! <br/><a href="https://github.com/udit-uniyal">Programmer</a>, <a href="https://www.linkedin.com/in/udit-uniyal-6555051b4">Cybersecurity Professional</a></h1>
 
 <h2>🧑🏻‍💻 Work Experience:</h2>
-
+- <b>IT Security Senior Associate</b>
+  - [Click me to see the internship certificate](https://drive.google.com/file/d/1o1mm4urgBCnzvOFCU_dE9Cd1xYcC7xsa/view?usp=share_link). 
 - <b>Cyber Security Specialist (Intern)</b>
   - [Click me to see the internship certificate](https://drive.google.com/file/d/1o1mm4urgBCnzvOFCU_dE9Cd1xYcC7xsa/view?usp=share_link). 
 - <b>Virtually Testing Foundation (Intern)</b>
