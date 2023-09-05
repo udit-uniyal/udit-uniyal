@@ -3,13 +3,13 @@
 <h2>🧑🏻‍💻 Work Experience:</h2>
 
 - <b>IT Security Senior Associate</b>
-  - [Click me to see the internship certificate](https://drive.google.com/file/d/1vmVxzRND_IAelO6w31llcKXscKgISiM-/view?usp=sharing). 
+  - [Click me to see the certificate](https://drive.google.com/file/d/1vmVxzRND_IAelO6w31llcKXscKgISiM-/view?usp=sharing). 
 - <b>Cyber Security Specialist</b>
-  - [Click me to see the internship certificate](https://drive.google.com/file/d/1o1mm4urgBCnzvOFCU_dE9Cd1xYcC7xsa/view?usp=share_link). 
+  - [Click me to see the certificate](https://drive.google.com/file/d/1o1mm4urgBCnzvOFCU_dE9Cd1xYcC7xsa/view?usp=share_link). 
 - <b>Virtually Testing Foundation</b>
-  - [Click me to see the internship certificate](https://drive.google.com/file/d/1TjNPVKvQ-s7hltYq3lYMVhULXNP_yJDQ/view?usp=share_link)
+  - [Click me to see the certificate](https://drive.google.com/file/d/1TjNPVKvQ-s7hltYq3lYMVhULXNP_yJDQ/view?usp=share_link)
 - <b>Institute Innovation Cell (IIC)</b>
-  - [Click me to see the internship certificate](https://drive.google.com/file/d/1Pcp-eOHTatJnGpiuZUy41_i0LGrCBLzd/view?usp=share_link)
+  - [Click me to see the certificate](https://drive.google.com/file/d/1Pcp-eOHTatJnGpiuZUy41_i0LGrCBLzd/view?usp=share_link)
 
 <h2>💻 Cybersecurity Projects:</h2>
 
