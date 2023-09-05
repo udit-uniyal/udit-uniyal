@@ -1,8 +1,9 @@
 <h1>Hi, I'm Udit! <br/><a href="https://github.com/udit-uniyal">Programmer</a>, <a href="https://www.linkedin.com/in/udit-uniyal-6555051b4">Cybersecurity Professional</a></h1>
 
 <h2>🧑🏻‍💻 Work Experience:</h2>
+
 - <b>IT Security Senior Associate</b>
-  - [Click me to see the internship certificate](https://drive.google.com/file/d/1o1mm4urgBCnzvOFCU_dE9Cd1xYcC7xsa/view?usp=share_link). 
+  - [Click me to see the internship certificate](https://drive.google.com/file/d/1vmVxzRND_IAelO6w31llcKXscKgISiM-/view?usp=sharing). 
 - <b>Cyber Security Specialist (Intern)</b>
   - [Click me to see the internship certificate](https://drive.google.com/file/d/1o1mm4urgBCnzvOFCU_dE9Cd1xYcC7xsa/view?usp=share_link). 
 - <b>Virtually Testing Foundation (Intern)</b>
@@ -23,6 +24,8 @@
 
 <h2>📜 Certifications:</h2>
 
+- <b>CWL Certified Cyber Security Analyst [C3SA]</b>
+  - [Click me to verify and see the certificate](https://www.credential.net/db918222-9bf6-4711-930a-55967837fb77)
 - <b>Network Security & Database Vulnerabilities</b>
   - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/2PA25CETV6RK)
 - <b>Crash Course on Python</b>
@@ -38,7 +41,7 @@
 
 <h2>👨‍🎓 University Projects as ECE Student:</h2>
 
-- <b>Water Level Indicator using Wifi Technology</b>
+- <b>High Speed Voice control vehicle with live video streaming feature</b>
   - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
 - <b>High speed voice control car with obstacle avoidance feature</b>
   - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
