@@ -1,57 +1,120 @@
-<h1>Hi, I'm Udit! <br/><a href="https://github.com/udit-uniyal">Programmer</a>, <a href="https://www.linkedin.com/in/udit-uniyal-6555051b4">Cybersecurity Professional</a></h1>
 
-<h2>🧑🏻‍💻 Work Experience:</h2>
+# **Udit Uniyal**  
+**Gurgaon, India | [LinkedIn](https://www.linkedin.com/in/udit-uniyal-6555051b4) | [GitHub](https://github.com/udit-uniyal) | udituniyal71@gmail.com | 8755357024**
 
-- <b>IT Security Senior Associate</b>
-  - [Click me to see the certificate](https://drive.google.com/file/d/1vmVxzRND_IAelO6w31llcKXscKgISiM-/view?usp=sharing). 
-- <b>Cyber Security Specialist</b>
-  - [Click me to see the certificate](https://drive.google.com/file/d/1o1mm4urgBCnzvOFCU_dE9Cd1xYcC7xsa/view?usp=share_link). 
-- <b>Virtually Testing Foundation</b>
-  - [Click me to see the certificate](https://drive.google.com/file/d/1TjNPVKvQ-s7hltYq3lYMVhULXNP_yJDQ/view?usp=share_link)
-- <b>Institute Innovation Cell (IIC)</b>
-  - [Click me to see the certificate](https://drive.google.com/file/d/1Pcp-eOHTatJnGpiuZUy41_i0LGrCBLzd/view?usp=share_link)
+---
 
-<h2>💻 Cybersecurity Projects:</h2>
+## **🎓 Education**
 
-- <b>GUI Based File Integrity Monitoring System</b>
-  - [Click me to go to project code and details](https://github.com/udit-uniyal/File-Integrity-Monitoring-System.git)
-- <b>Vulnerability Management Tool</b>
-  - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
-- <b>KeyLogger using Python</b>
-  - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
-- <b>Web Scrapping using Python</b>
-  - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
+**Hemvati Nandan Bahuguna Garhwal University** — *Uttarakhand*  
+**B.Tech in Electronics and Communication Engineering** *(Aug 2019 - Aug 2023)*
 
-<h2>📜 Certifications:</h2>
+**S.G.R.R Public School** — *Uttarakhand*  
+**10th & 12th Grade, PCM** *(Aug 2018 - Aug 2019)*
 
-- <b>CWL Certified Cyber Security Analyst [C3SA]</b>
-  - [Click me to verify and see the certificate](https://www.credential.net/db918222-9bf6-4711-930a-55967837fb77)
-- <b>Network Security & Database Vulnerabilities</b>
-  - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/2PA25CETV6RK)
-- <b>Crash Course on Python</b>
-  - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/A2V5LVER6NHT)
-- <b>Introduction to Cybersecurity Tools & Cyber Attacks</b>
-  - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/GB4HWX4L83PW)
-- <b>Using Python to Interact with the Operating System</b>
-  - [Click me to verify and see the certificate](https://www.coursera.org/account/accomplishments/verify/X6AGWDSR9BU6)
-- <b>Embedded System</b>
-  - [Click me to verify and see the certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=DB485027-D85E-0659-745F-7E9F3AFCC89E)
-- <b>Burp Suite: In Depth Survival Guide</b>
-  - [Click me to verify and see the certificate](https://www.udemy.com/certificate/UC-50327248-675d-432b-8c94-12ea256501bd/)
+---
 
-<h2>👨‍🎓 University Projects as ECE Student:</h2>
+## **💼 Work Experience**
 
-- <b>High Speed Voice control vehicle with live video streaming feature</b>
-  - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
-- <b>High speed voice control car with obstacle avoidance feature</b>
-  - [Click me to go to project code and details](https://github.com/udit-uniyal/FIM)
+### **Cyber Security Engineer | AccuKnox**  
+*Remote, California, U.S.*  
+**Oct 2023 - Present**
 
-<h2> 🤳 Connect with me:</h2>
+- Spearheaded the **DevSecOps cycle**, enhancing it through **GitHub Actions** and **Jenkins plugins** for Container/IaC/SAST/DAST scanning, resulting in a **40% boost** in customer acquisition.
+- Developed and automated **Container** and **IaC Scan GitHub Actions**.
+- Configured and integrated **SAST**, **DAST**, **Container Security**, **SCA**, and **IaC scanning** across multiple cloud and CI/CD platforms.
+- Created an engaging **KubeArmor Zero-Trust scenario** on KillerCoda, significantly boosting user interaction.
+- Developed **STIG compliance scripts** for Ubuntu, Kubernetes, and RHEL9, driving a **25% customer base increase**.
+- Enhanced product documentation and developed battlecards to highlight AccuKnox's unique offerings.
+- Conducted penetration tests on internal web and API services, uncovering and documenting critical vulnerabilities.
 
-[<img align="left" alt="UditUniyal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### **Cyber Security (IT Security Engineer) | Real Time Data Services**  
+*Gurgaon, India*  
+**6-Month Contract**
 
+- Led **penetration testing** and **incident response** efforts, securing complex networks.
+- Performed comprehensive penetration tests across diverse systems, applications, and networks.
+- Managed **incident response**, ensuring swift containment and minimal impact.
+- Improved **incident response procedures**, streamlining security operations.
+- Collaborated with IT and development teams to implement effective security measures.
 
+### **Cyber Security (Senior Associate) | Physics Wallah**  
+*Gurgaon, India*  
+**Jan 2023 - May 2023**
 
-[linkedin]: https://www.linkedin.com/in/udit-uniyal-6555051b4
+- Managed endpoint security for over **500 devices**, implementing effective security policies.
+- Proactively monitored and neutralized endpoint and server threats, averting potential damages exceeding **$70,000**.
+- Balanced full-time work responsibilities with final semester B.Tech studies.
 
+### **Cyber Security (Specialist) | Cyber Secured India**  
+*Remote, India*  
+**3-Month Internship**
 
+- Conducted **network security assessments** and web application tests, adhering to **OWASP Top 10** standards.
+- Performed **API security testing** with tools like Postman and Burp Suite.
+
+### **Cyber Security (Penetration Tester) | Virtually Testing Foundation**  
+*Remote, US*  
+**6-Month Internship**
+
+- Supported penetration testing efforts by researching emerging threats and conducting risk assessments.
+- Executed **black box** and **grey box penetration tests** on client platforms, delivering detailed vulnerability reports.
+
+### **Python Programmer | Institute Innovation Cell (IIC)**  
+*Dehradun, Uttarakhand*  
+**2-Month Internship**
+
+- Developed educational Python-based malware and delivered cybersecurity lessons on **Bash** and **Python scripting** to over **50 participants**.
+
+---
+
+## **🌐 Open Source Contributions**
+
+### **Canonical**
+- **MicroK8s Community Addons**  
+  - [Resolved KubeArmor installation issues in MicroK8s](https://github.com/canonical/microk8s-community-addons/pull/216), ensuring smooth setups.
+
+### **KubeArmor**
+- **Kubernetes KillerCoda Setup**  
+  - [Introduced K3s Kubernetes and KubeArmor installation scripts](https://github.com/kubearmor/KubeArmor/pull/1493), ensuring seamless deployment.
+
+---
+
+## **🔧 Projects**
+
+### **Comprehensive Application Security Integration in GitHub Pipeline**  
+- **DAST:** Integrated **Burp Suite**, **OWASP ZAP**, and **Acunetix** for runtime vulnerability detection in web apps.
+- **SAST:** Deployed **SonarQube** for static code analysis within CI/CD pipelines.
+- **Container Security:** Ensured secure containerization by scanning Docker images and configurations.
+
+### **Integration of IaC Scanning with Checkov and Reporting to AccuKnox SaaS**  
+- **Enhanced IaC Security:** Integrated **Checkov** for Terraform script scanning.
+- **Automated Scans:** Streamlined security checks within CI/CD pipelines.
+- **AccuKnox Reporting:** Automated result submissions for centralized monitoring.
+
+---
+
+## **📜 Certifications**
+
+- **CWL Certified Cyber Security Analyst (C3SA)** — *Cyber Warfare Labs*  
+  - *Apr 2023 - Jul 2023*  
+  - Focused on advanced cybersecurity analysis techniques.
+
+---
+
+## **💻 Skills & Expertise**
+
+- **Penetration Testing**  
+- **Incident Response**  
+- **DevSecOps**  
+- **SAST (Static Application Security Testing)**  
+- **DAST (Dynamic Application Security Testing)**  
+- **IaC (Infrastructure as Code)**  
+- **Container Security**  
+- **Zero Trust Security**  
+- **Cloud Security:** AWS, GCP, Azure  
+- **Kubernetes Security**
+
+---
+
+This profile layout is designed to highlight your technical expertise, projects, and contributions in a concise and visually appealing format. It also emphasizes the impact of your work on business outcomes, making it both informative and engaging for potential employers or collaborators.
